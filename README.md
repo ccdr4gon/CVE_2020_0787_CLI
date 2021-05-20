@@ -5,7 +5,7 @@
 - 输入同目录下input.bat
 - 输出同目录下output.txt
 
-![Snipaste_2021-05-20_16-05-08](C:\_code\weapons\ccdragon\CVE-2020-0787-EXP-ALL-WINDOWS-VERSION\Snipaste_2021-05-20_16-05-08.png)
+![Snipaste_2021-05-20_16-05-08](./Snipaste_2021-05-20_16-05-08.png)
 
 顺便也把CreateProcessAsUser的flag位改成了CREATE_NO_WINDOW
 
